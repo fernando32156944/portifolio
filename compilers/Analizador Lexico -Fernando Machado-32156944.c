@@ -10,7 +10,7 @@ analisador lexico.
 #include<string.h>
 #include <math.h>//inclui pow
 
-// como temos v·rios tipos de atomos, teremos uma constante numerica
+// como temos v√°rios tipos de atomos, teremos uma constante numerica
 // para representar cada atomo
 
 // Definicao de constantes para os atomos da linguagem
