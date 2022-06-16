@@ -4,10 +4,10 @@
 
 * TIA: 32156944
 
-* Crie um progama capaz de ler dois nomes de pessoas e imprimi-los em ordem alfabÈtica. FaÁa isto com string de C e de C++
+* Crie um progama capaz de ler dois nomes de pessoas e imprimi-los em ordem alfab√©tica. Fa√ßa isto com string de C e de C++
   
   
-  n„o consegui fazer pois n„o sei como transformar char em ascii da forma correta
+  n√£o consegui fazer pois n√£o sei como transformar char em ascii da forma correta
 
 */
 
