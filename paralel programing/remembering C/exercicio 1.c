@@ -5,7 +5,7 @@
 * TIA: 32156944
 
 * Crie um programa capaz de ler os dados de uma matriz quadrada de inteiros.
-  Ao final da leitura o programa deverá imprimir o número da linha que contém o menor dentre todos os números lidos.
+  Ao final da leitura o programa deverÃ¡ imprimir o nÃºmero da linha que contÃ©m o menor dentre todos os nÃºmeros lidos.
 */
 
 #include <stdio.h>
