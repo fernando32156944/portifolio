@@ -4,7 +4,7 @@
 
 * TIA: 32156944
 
-* Faça uma função que retorne a posição de um dado caracter dentro de uma string.
+* FaÃ§a uma funÃ§Ã£o que retorne a posiÃ§Ã£o de um dado caracter dentro de uma string.
 
 */
 
