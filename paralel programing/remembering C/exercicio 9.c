@@ -4,7 +4,7 @@
 
 * TIA: 32156944
 
-* Crie uma função capaz de substituir todos os números negativos de uma matriz por seu módulo.
+* Crie uma funÃ§Ã£o capaz de substituir todos os nÃºmeros negativos de uma matriz por seu mÃ³dulo.
 */
 #include <stdio.h>
 
