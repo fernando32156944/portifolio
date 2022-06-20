@@ -1,0 +1,21 @@
+pontoB = False #booleano do  botao do ponto
+linhaB = False #booleano do botao da reta
+circuloB = False #booleano do botao do circulo
+TrianguloB = False #booleano do botao do triangulo
+RCB = False #booleano do botao das retas circulos 
+pontoC = False #booleano do ponto central
+pontoUM = False #booleano do ponto UM
+pontoDois = False #booleano do ponto Dois
+CorB = False #booleano do botao da cor
+EspB = False #booleano do botao da espessura
+Inicio = True #booleano que marca o inicio
+LimparB = False #booleano do botao de limpar a tela
+RestauradorB = False #booleano do botao do Restaurador
+retaR = False
+circuloR = False
+mapaB = False
+criarM = True
+mapeadorON = False
+SaveB = False
+LoadB = False
+
